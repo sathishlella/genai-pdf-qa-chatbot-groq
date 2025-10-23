@@ -20,7 +20,6 @@ pinned: false
 ## 🔴 Live Demo
 
 ➡️ **Hugging Face Space:** https://huggingface.co/spaces/SathishLella/genai-pdf-qa-chatbot-groq
-![Preview]([https://your.cdn.com/path/preview.jpg](https://huggingface.co/spaces/SathishLella/genai-pdf-qa-chatbot-groq))
 [![Dashboard preview](GenAI_pdf_reader.png)](https://huggingface.co/spaces/SathishLella/genai-pdf-qa-chatbot-groq)
 
 
