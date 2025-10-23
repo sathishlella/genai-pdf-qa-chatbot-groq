@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# GenAI PDF Q&A — RAG on LangChain (Streamlit)
+# GenAI PDF Q&A — RAG on LangChain (Hugging Face)
 
 **Upload PDFs → Build an index → Ask questions.**
 
