@@ -3,7 +3,7 @@ title: GenAI PDF Q&A (RAG · LangChain)
 emoji: 📄
 colorFrom: indigo
 colorTo: blue
-sdk: streamlit
+sdk: Hugging Face
 sdk_version: "1.37.1"
 app_file: app.py
 pinned: false
